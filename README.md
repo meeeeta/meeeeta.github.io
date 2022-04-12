@@ -1,2 +1,2 @@
-# meeeta.github.io
+# meeeeta.github.io
 blog oficial da meeeta
